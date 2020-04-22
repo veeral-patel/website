@@ -10,4 +10,4 @@ ShowPosts = false
 
 [Incident response stack](https://medium.com/@veeralpatel/capabilities-every-ir-team-should-have-for-responding-to-malware-infections-9422e0bd304a)
 
-[A proposal for attacker profiling](https://medium.com/@veeralpatel/attacker-profiling-stack-c7675c7ed2c2)
+[A proposal for attacker profiling](https://medium.com/@veeralpatel/attacker-profiling-stack-c7675c7ed2c2) • designing a dynamic honeynet to learn attackers' motives, skill level, determination, TTPs
