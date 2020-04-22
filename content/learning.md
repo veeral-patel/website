@@ -1,5 +1,5 @@
 +++
-title = "Blog"
+title = "Learning"
 type = "single"
 ShowPosts = false
 +++
