@@ -15,3 +15,4 @@ ShowPosts = false
 
 - [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering) - 580+ stars
 - [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) - 350+ stars
+- [Incidents](https://github.com/veeral-patel/incidents) - a collaborative, web-based case management tool for incident response
