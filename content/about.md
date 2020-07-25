@@ -21,3 +21,7 @@ Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [O
 - [Incidents](https://github.com/veeral-patel/incidents)
 - [True Positive](https://github.com/veeral-patel/true-positive)
 - [LR Tracker](https://github.com/veeral-patel/lr_tracker)
+
+## Knowledge Base
+
+[Link](https://knowledgebase.veeral-patel.com/)
