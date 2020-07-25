@@ -14,6 +14,8 @@ Here are some books I've read that I highly recommend.
 
 - [When Coffee and Kale Compete](https://www.amazon.com/When-Coffee-Kale-Compete-products-ebook/dp/B07C7HH662/) - Segmenting users based on jobs-to-be-done, not personas, teaches you who your real competitors are and how to improve your product in the user's eyes.
 
+- [Escaping the Build Trap](https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X) - Shipping more code doesn't mean providing more value to users. Also taught me how to go about PM in a systematic way: understand the company's goals, understand your product's current state, choose something to improve, ideate, and experiment.
+
 ## Biographies
 
 - [At the Center of the Storm: My Years at the CIA](https://www.amazon.com/At-Center-Storm-Years-CIA/dp/0061147788) - I always wondered what exactly an "intelligence agency" did. This book by the second longest serving CIA director describes, among many other things, how the CIA cajoled (and bullied) Afghani tribes
