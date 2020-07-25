@@ -6,12 +6,9 @@ ShowPosts = false
 
 Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [OpsRamp](https://opsramp.com). I graduated from UC Berkeley with a Computer Science degree in December 2018.
 
-## Links
+Previously I worked as an incident response consultant at [Mandiant](https://www.fireeye.com/mandiant.html), and interned on [Yelp's](https://yelp.com) Application Security team.
 
-- [GitHub](http://github.com/veeral-patel)
-- [LinkedIn](https://www.linkedin.com/in/veeral-patel-6b6730132/)
-- [Medium](https://medium.com/@veeralpatel)
-- [Twitter](https://twitter.com/veeralpatel44)
+Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 ## Projects
 
@@ -25,3 +22,10 @@ Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [O
 ## Knowledge Base
 
 [Link](https://knowledgebase.veeral-patel.com/)
+
+## Links
+
+- [GitHub](http://github.com/veeral-patel)
+- [LinkedIn](https://www.linkedin.com/in/veeral-patel-6b6730132/)
+- [Medium](https://medium.com/@veeralpatel)
+- [Twitter](https://twitter.com/veeralpatel44)
