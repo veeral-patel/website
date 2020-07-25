@@ -4,6 +4,8 @@ type = "single"
 ShowPosts = false
 +++
 
+Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [OpsRamp](https://opsramp.com). I graduated from UC Berkeley with a Computer Science degree in December 2018.
+
 ## Links
 
 - [GitHub](http://github.com/veeral-patel)
