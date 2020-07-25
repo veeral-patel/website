@@ -4,6 +4,8 @@ type = "single"
 ShowPosts = false
 +++
 
+<img src="images/me.jpg" style="height: 200px; float: right; margin-left: 40px" />
+
 Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [OpsRamp](https://opsramp.com). I graduated from UC Berkeley with a Computer Science degree in December 2018.
 
 Previously I worked as an incident response consultant at [Mandiant](https://www.fireeye.com/mandiant.html), and interned on [Yelp's](https://yelp.com) Application Security team.
