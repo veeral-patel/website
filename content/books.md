@@ -18,5 +18,6 @@ Here are some books I've read that I highly recommend.
 
 ## Biographies
 
-- [At the Center of the Storm: My Years at the CIA](https://www.amazon.com/At-Center-Storm-Years-CIA/dp/0061147788) - I always wondered what exactly an "intelligence agency" did. This book by the second longest serving CIA director describes, among many other things, how the CIA cajoled (and bullied) Afghani tribes
-  into helping overthrow the Taliban.
+- [At the Center of the Storm: My Years at the CIA](https://www.amazon.com/At-Center-Storm-Years-CIA/dp/0061147788) - Written by George Tenet, CIA director under Presidents Clinton and GWB. I especially liked learning how the CIA cajoled (and bullied) Afghani tribes into helping overthrow the Taliban.
+
+- [Who is Michael Ovitz?](https://www.amazon.com/Who-Is-Michael-Ovitz-audiobook/dp/B07DK2XMBZ) - Michael Ovitz built the largest talent agency in Hollywood, with virtually all the A list stars, by creating a network effect: he'd package directors, actors, and the script, moving power from the studios to his agency. Later, he helped broker multi-billion dollar M&A deals and became president of Disney.
