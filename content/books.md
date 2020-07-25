@@ -12,7 +12,9 @@ Here are some books I've read that I highly recommend.
 
 - [Inspired](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N/) - Most companies build products in the same (bad) way, which is just writing up a product roadmap and building it. The best teams, though, understand the user, ideate, and prototype and validate ideas before putting them on the roadmap.
 
+- [When Coffee and Kale Compete](https://www.amazon.com/When-Coffee-Kale-Compete-products-ebook/dp/B07C7HH662/) - Segmenting users based on jobs-to-be-done, not personas, teaches you who your real competitors are and how to improve your product in the user's eyes.
+
 ## Biographies
 
 - [At the Center of the Storm: My Years at the CIA](https://www.amazon.com/At-Center-Storm-Years-CIA/dp/0061147788) - I always wondered what exactly an "intelligence agency" did. This book by the second longest serving CIA director describes, among many other things, how the CIA cajoled (and bullied) Afghani tribes
-  into fighting the Taliban.
+  into helping overthrow the Taliban.

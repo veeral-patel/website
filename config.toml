@@ -52,6 +52,6 @@ paginate = 5
         name = "Blog"
         url = "/blog"
       [[languages.en.menu.main]]
-        identifier = "ideas"
-        name = "Ideas"
-        url = "/ideas"
+        identifier = "books"
+        name = "Books"
+        url = "/books"
