@@ -17,4 +17,7 @@ Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [O
 
 - [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering) - 580+ stars
 - [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) - 350+ stars
+- [Orchestrator](http://web.archive.org/web/20181211032349/http://getorchestrator.com/)
 - [Incidents](https://github.com/veeral-patel/incidents)
+- [True Positive](https://github.com/veeral-patel/true-positive)
+- [LR Tracker](https://github.com/veeral-patel/lr_tracker)
