@@ -47,7 +47,3 @@ paginate = 5
         identifier = "blog"
         name = "Blog"
         url = "/blog"
-      [[languages.en.menu.main]]
-        identifier = "books"
-        name = "Books"
-        url = "/books"
