@@ -1,2 +1,7 @@
 [context.production.environment]
   HUGO_VERSION = "0.59.0"
+
+[[redirects]]
+  from = "/about"
+  to = "/"
+  status = 301
