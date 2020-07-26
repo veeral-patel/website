@@ -6,7 +6,7 @@ ShowPosts = false
 
 <img src="images/me.jpg" style="height: 200px; float: right; margin-left: 40px" />
 
-Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [OpsRamp](https://opsramp.com). I graduated from UC Berkeley with a Computer Science degree in December 2018.
+Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [OpsRamp](https://opsramp.com). I graduated from UC Berkeley with a Computer Science degree in December 2018 (in 2.5 years).
 
 Previously I worked as an incident response consultant at [Mandiant](https://www.fireeye.com/mandiant.html), and interned on [Yelp's](https://yelp.com) Application Security team.
 
@@ -36,41 +36,41 @@ The site has 40+ articles and 70+ printed pages of content in total.
 Highlights:
 
 <ul>
-        <li>
-          <a href="https://knowledgebase.veeral-patel.com/security%20engineering/web-app-hackers-handbook/">
-            Notes on the "Web Application Hacker's Handbook"</a>
-          (24 pages)
-        </li>
-        <li>
-          <a href="https://knowledgebase.veeral-patel.com/non-traditional%20hacking/security-analysis-of-a-car/">Notes on "Experimental security analysis of a modern automobile"
-            paper</a>
-          (5 pages)
-        </li>
-        <li>
-          <a href="https://knowledgebase.veeral-patel.com/dfir/att&amp;ck/">Notes on the ATT&amp;CK framework</a>
-          (7 pages)
-        </li>
-        <li>
-          <a href="https://knowledgebase.veeral-patel.com/malware%20analysis/malware-analysis-guide/">Guide to malware analysis</a>
-          (8 pages)
-        </li>
-        <li>
-          <a href="https://knowledgebase.veeral-patel.com/software%20engineering/software-design-principles/">Software design principles</a>
-          (5 pages)
-        </li>
-        <li>
-          <a href="https://knowledgebase.veeral-patel.com/dfir/computer-forensics-and-ir/">Notes on "Computer Forensics and Incident Response"</a>
-          (5 pages)
-        </li>
-        <li>
-          <a href="https://knowledgebase.veeral-patel.com/non-traditional%20hacking/exploiting-medical-devices/">"Exploiting medical devices" (BlackHat 2018 talk)</a>
-          (2 pages)
-        </li>
-        <li>
-          <a href="https://knowledgebase.veeral-patel.com/corporate%20security/security-market/">Notes on a couple security vendors' SEC filings</a>
-          (7 pages)
-        </li>
-      </ul>
+    <li>
+        <a href="https://knowledgebase.veeral-patel.com/security%20engineering/web-app-hackers-handbook/">
+        Notes on the "Web Application Hacker's Handbook"</a>
+        (24 pages)
+    </li>
+    <li>
+        <a href="https://knowledgebase.veeral-patel.com/non-traditional%20hacking/security-analysis-of-a-car/">Notes on "Experimental security analysis of a modern automobile"
+        paper</a>
+        (5 pages)
+    </li>
+    <li>
+        <a href="https://knowledgebase.veeral-patel.com/dfir/att&amp;ck/">Notes on the ATT&amp;CK framework</a>
+        (7 pages)
+    </li>
+    <li>
+        <a href="https://knowledgebase.veeral-patel.com/malware%20analysis/malware-analysis-guide/">Guide to malware analysis</a>
+        (8 pages)
+    </li>
+    <li>
+        <a href="https://knowledgebase.veeral-patel.com/software%20engineering/software-design-principles/">Software design principles</a>
+        (5 pages)
+    </li>
+    <li>
+        <a href="https://knowledgebase.veeral-patel.com/dfir/computer-forensics-and-ir/">Notes on "Computer Forensics and Incident Response"</a>
+        (5 pages)
+    </li>
+    <li>
+        <a href="https://knowledgebase.veeral-patel.com/non-traditional%20hacking/exploiting-medical-devices/">"Exploiting medical devices" (BlackHat 2018 talk)</a>
+        (2 pages)
+    </li>
+    <li>
+        <a href="https://knowledgebase.veeral-patel.com/corporate%20security/security-market/">Notes on a couple security vendors' SEC filings</a>
+        (7 pages)
+    </li>
+</ul>
 
 ## Links
 
