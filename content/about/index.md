@@ -20,11 +20,11 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering) (6k stars) - 20+ pages of my notes on how to build secure systems, along with 25+ papers and 15+ book recommendations. The most starred repository [on this topic on GitHub](https://github.com/topics/security-engineering) (as of June 2021).
 
-- [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) (350+ stars) - The most popular collection on GitHub of projects, blog posts, books, and talks about cybersecurity risk quantification
+- [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) (390+ stars) - The most popular collection on GitHub of projects, blog posts, books, and talks about cybersecurity risk quantification. Created it as I was reading about the topic, after seeing Netflix's [riskquant project](https://github.com/Netflix-Skunkworks/riskquant)
 
-- [Orchestrator](http://web.archive.org/web/20181211032349/http://getorchestrator.com/) - an (unsuccessful) security automation startup I founded in college. Interviewed at Y Combinator twice, but never got in.
+- [Orchestrator](http://web.archive.org/web/20181211032349/http://getorchestrator.com/) - an (unsuccessful) security automation startup I founded in college. Goal was to build an interactive console that secops staff could use to carry out mundane tasks like blocking domains in OpenDNS and looking up hashes in VirusTotal for them upon request.
 
-- [True Positive](https://github.com/veeral-patel/true-positive) - open source, collaborative, web-based case management tool for incident response
+- [True Positive](https://truepositive.app) - open source web application I built to help incident responders work together, organize their tasks, track IOCs for complex cases. [GitHub repo here](https://github.com/veeral-patel/true-positive)
 
 - [Incidents](https://github.com/veeral-patel/incidents) - initial iteration of True Positive. Written with Rails with server-rendered HTML and JQuery, then later rewrote True Positive using a Rails API and React, revamping the UI and adding many more features
 
