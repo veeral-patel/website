@@ -26,7 +26,7 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [LR Tracker](https://github.com/veeral-patel/lr_tracker) - a web app I built at Mandiant to help me track my forensic analyses of different compromised computers
 
-- While in college, had the opportunity to participate in a US-UK CTF competition held at the University of Cambridge in the UK. [Managed to place 2nd individually](https://sa.berkeley.edu/news/2017/10/13/cal-sophomore-veeral-patel-places-2nd-cyber-security-competition)
+- While in college, had the opportunity to participate in a US-UK CTF competition held at the University of Cambridge in the UK. [Managed to place 2nd individually](https://sa.berkeley.edu/news/2017/10/13/cal-sophomore-veeral-patel-places-2nd-cyber-security-competition) (110 competitors total, from 24 colleges)
 
 ## Knowledge Base
 
