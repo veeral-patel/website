@@ -18,7 +18,7 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [Security Founders Slack](https://securityfounders.org/) - I run a channel in this group that pairs ~80 CISOs and founders for random virtual coffees every two weeks. (Did not create this group, but am a member as I'm fairly interested in working on a security company at some point.)
 
-- [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering) (6k stars) - 20+ pages of my notes on how to build secure systems, along with 25+ papers and 15+ book recommendations. The most starred repository [on this topic on GitHub](https://github.com/topics/security-engineering) (as of June 2021).
+- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) (6k stars) - 20+ pages of my notes on how to build secure systems, along with 25+ papers and 15+ book recommendations. The most starred repository [on this topic on GitHub](https://github.com/topics/security-engineering) (as of June 2021).
 
 - [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) (390+ stars) - The most popular collection on GitHub of projects, blog posts, books, and talks about cybersecurity risk quantification. Created it as I was reading about the topic, after seeing Netflix's [riskquant project](https://github.com/Netflix-Skunkworks/riskquant)
 
