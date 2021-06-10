@@ -14,6 +14,8 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 ## Projects
 
+- [CISO/Founder Connect](http://connect.securityfounders.org/) - project I'm working on with [Caleb Sima](https://www.linkedin.com/in/calebsima) (CISO at Robinhood). Matches CISOs and founders with each other for angel investing, product feedback, advising, board seats. Fortunate to have some top notch security leaders in the program from great companies including JupiterOne, Redis Labs, Twilio, Google DeepMind, Informatica, and many more.
+
 - [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering) (6k stars) - 20+ pages of my notes on how to build secure systems, along with 25+ papers and 15+ book recommendations. The most starred repository [on this topic on GitHub](https://github.com/topics/security-engineering) (as of July 2020).
 
 - [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) (350+ stars) - The most popular collection on GitHub of projects, blog posts, books, and talks about cybersecurity risk quantification
