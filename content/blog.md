@@ -6,6 +6,8 @@ ShowPosts = false
 
 I blog on [Medium](https://medium.com/@veeralpatel).
 
+- [Your digital security is as strong as your weakest security email](https://medium.com/@veeralpatel/if-your-email-is-hacked-everything-is-47544aeee699) • the obvious, but terrifying reality that with access to your email inbox, an attacker can compromise all your digital accounts
+
 - [How to brainstorm defensive security controls](https://medium.com/@veeralpatel/how-to-brainstorm-security-controls-47f3d300526b) • identifying and understanding threats, prevent/detect/respond framework, kill chains
 
 - [Risk quantification: what I've learned](https://medium.com/@veeralpatel/risk-quantification-what-ive-learned-80397fb9b55) • does risk quant solve a problem?, proposed tools for quantifying the risk of a data breach programmatically, tips for entrepreneurs
