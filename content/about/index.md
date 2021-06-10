@@ -6,7 +6,7 @@ ShowPosts = false
 
 <img src="/images/me.jpg" style="height: 200px; float: right; margin-left: 40px" />
 
-Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [OpsRamp](https://opsramp.com). I graduated from UC Berkeley with a Computer Science degree in December 2018 (in 2.5 years).
+Welcome! I live in Sunnyvale, CA and work as a fullstack software engineer at [OpsRamp](https://opsramp.com). I graduated from UC Berkeley with a Computer Science degree in December 2018 (decided to graduate a little early, in 2.5 years).
 
 Previously I worked as an incident response consultant at [Mandiant](https://www.fireeye.com/mandiant.html), and interned on [Yelp's](https://yelp.com) Application Security team.
 
@@ -26,12 +26,14 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [LR Tracker](https://github.com/veeral-patel/lr_tracker) - a web app I built at Mandiant to help me track my forensic analyses of different compromised computers
 
+- While in college, had the opportunity to participate in a US-UK CTF competition held at the University of Cambridge in the UK. [Managed to place 2nd individually](https://sa.berkeley.edu/news/2017/10/13/cal-sophomore-veeral-patel-places-2nd-cyber-security-competition)
+
 ## Knowledge Base
 
-I read a lot of books and papers on security (and watch conference talks)
+I sometimes read books/papers, and watch conference talks, on cybersecurity
 and upload my notes to [this site](https://knowledgebase.veeral-patel.com/).
 
-The site has 40+ articles and 70+ printed pages of content in total.
+So far, the site has about 40 articles and 70 printed pages of content in total.
 
 Highlights:
 
