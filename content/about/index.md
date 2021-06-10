@@ -22,11 +22,11 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [Orchestrator](http://web.archive.org/web/20181211032349/http://getorchestrator.com/) - an (unsuccessful) security automation startup I founded in college. Interviewed at Y Combinator twice, but never got in.
 
-- [Incidents](https://github.com/veeral-patel/incidents)
+- [True Positive](https://github.com/veeral-patel/true-positive) - open source, collaborative, web-based case management tool for incident response
 
-- [True Positive](https://github.com/veeral-patel/true-positive)
+- [Incidents](https://github.com/veeral-patel/incidents) - initial iteration of True Positive. Written with Rails with server-rendered HTML and JQuery, then later rewrote True Positive using a Rails API and React, revamping the UI and adding many more features
 
-- [LR Tracker](https://github.com/veeral-patel/lr_tracker) - a web app I built at Mandiant to help me track my forensic analyses of different compromised computers
+- [LR Tracker](https://github.com/veeral-patel/lr_tracker) - a simple web app I built at Mandiant to help me track my forensic analyses of different compromised computers
 
 - While in college, had the opportunity to participate in a US-UK CTF competition held at the University of Cambridge in the UK. [Managed to place 2nd individually](https://sa.berkeley.edu/news/2017/10/13/cal-sophomore-veeral-patel-places-2nd-cyber-security-competition) (110 competitors total, from 24 colleges)
 
