@@ -30,6 +30,8 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - While in college, had the opportunity to participate in a US-UK CTF competition held at the University of Cambridge in the UK. [Managed to place 2nd individually](https://sa.berkeley.edu/news/2017/10/13/cal-sophomore-veeral-patel-places-2nd-cyber-security-competition) (110 competitors total, from 24 colleges)
 
+- [ConsoleMe](http://github.com/netflix/consoleme) - made a (tiny) contribution by skimming through the codebase and [summarizing the file structure in the CONTRIBUTING.md file](https://github.com/Netflix/consoleme/blob/master/CONTRIBUTING.md), to onboard new contributors faster
+
 ## Knowledge Base
 
 I sometimes read books/papers, and watch conference talks, on cybersecurity
