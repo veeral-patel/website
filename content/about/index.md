@@ -37,6 +37,8 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [Cambridge2Cambridge cyber competition](https://www.cambridgefilmworks.com/cambridge-2-cambridge-cyber-competition-2/) - While in college, had the opportunity to participate in a US-UK CTF competition held at the University of Cambridge in the UK. [Managed to place 2nd individually](https://sa.berkeley.edu/news/2017/10/13/cal-sophomore-veeral-patel-places-2nd-cyber-security-competition) (110 competitors total, from 24 colleges)
 
+- [BERKE1337](https://berke1337.berkeley.edu/) - served as the leader of Cal's cybersecurity club for one year. Participated in CTF competitions. Helped organize and/or teach sessions on topics like lockpicking and web app hacking. Organized mock exams for students in our undergrad security class. Helped set up recruiting info-sessions with great companies like Samsung and Kaspersky Labs on campus. Was on our [WRCCDC](https://wrccdc.org/) collegiate competition team. Ran the DeCal class below.
+
 - [Titans of Cybersecurity DeCal](https://berke1337.berkeley.edu/decal/) - created and taught a one semester, student run class on cybersecurity. Speakers included Jeff Atwood (founder of Stack Overflow), Geoff Smalling (VP of Engineering at Flexport), Raj Date (1st director of the CFPB), Sourabh Satish (founder of Phantom Cyber, acq by Splunk)
 
 - [ConsoleMe](http://github.com/netflix/consoleme) - made a (tiny) contribution by reading through the whole codebase and [outlining the file structure in the CONTRIBUTING.md file](https://github.com/Netflix/consoleme/blob/master/CONTRIBUTING.md) -- to onboard new contributors faster
