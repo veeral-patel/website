@@ -29,12 +29,11 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 ### Educational
 
-- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) (6k stars) - I wanted to see if there were any useful principles of designing secure systems I could learn from other security-related fields (like casino security, military fortification design, prison design) that could be applied to computer security. So I put together this reading list for myself, my notes on what I've read so far (around 20 pages), and a generalized set of steps for secure system design.
-
-The most starred repository [on the topic of security engineering on GitHub](https://github.com/topics/security-engineering) (as of June 2021).
+- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) (6k stars) - ~55 total (printed) pages of book/paper recommendations to learn about security engineering, my notes on these resources, and a generalized set of steps for designing secure systems
+    - Created this repo as I wanted to learn if there were any useful principles of designing secure systems I could learn from other security-related fields (like casino security, military fortification design, prison design) that could be applied to computer security.
+    - The most starred repository [on the topic of security engineering on GitHub](https://github.com/topics/security-engineering) (as of June 2021).
 
 - [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) (390+ stars) - The most popular collection on GitHub of projects, blog posts, books, and talks about cybersecurity risk quantification. Created it as I was reading about the topic, after seeing Netflix's [riskquant project](https://github.com/Netflix-Skunkworks/riskquant)
-
 
 ### Community Involvement
 
