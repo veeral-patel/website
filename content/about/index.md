@@ -14,20 +14,7 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 ## Projects
 
-- [CISO/Founder Connect](http://connect.securityfounders.org/) - project I'm working on with [Caleb Sima](https://www.linkedin.com/in/calebsima) (CISO at Robinhood). Matches CISOs and founders with each other for angel investing, product feedback, advising, board seats. Fortunate to have some top notch security leaders in the program from great companies including JupiterOne, Redis Labs, Twilio, Google DeepMind, Informatica, and many more.
-
-- [Security Founders Slack](https://securityfounders.org/) - I run a channel in this group that pairs ~80 CISOs and founders for random virtual coffees every two weeks. (Did not create this group, but am a member as I'm fairly interested in working on a security company at some point.)
-
-- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) (6k stars) - 20+ pages of my notes on how to build secure systems, along with 25+ papers and 15+ book recommendations. The most starred repository [on this topic on GitHub](https://github.com/topics/security-engineering) (as of June 2021).
-
-- [Inbox Scanner](https://github.com/veeral-patel/inbox-scanner) - program that
-  scans your Gmail inbox for public Google Drive and Dropbox URLs, so you can
-  understand what files an attacker will gain access to after
-  compromising your inbox.
-
-- [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) (390+ stars) - The most popular collection on GitHub of projects, blog posts, books, and talks about cybersecurity risk quantification. Created it as I was reading about the topic, after seeing Netflix's [riskquant project](https://github.com/Netflix-Skunkworks/riskquant)
-
-- [Orchestrator](http://web.archive.org/web/20181211032349/http://getorchestrator.com/) - an (unsuccessful) security automation startup I founded in college. Goal was to build an interactive console that secops staff could use to carry out mundane tasks like blocking domains in OpenDNS and looking up hashes in VirusTotal for them upon request.
+### Open Source
 
 - [True Positive](https://truepositive.app) - open source web application I built to help incident responders work together, organize their tasks, track IOCs for complex cases. [GitHub repo here](https://github.com/veeral-patel/true-positive)
 
@@ -35,20 +22,43 @@ Reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [LR Tracker](https://github.com/veeral-patel/lr_tracker) - a simple web app I built at Mandiant to help me track my forensic analyses of different compromised computers
 
+- [Inbox Scanner](https://github.com/veeral-patel/inbox-scanner) - program that scans your Gmail inbox for public Google Drive and Dropbox URLs, so you can understand what files an attacker will gain access to after compromising your inbox.
+
+- [ConsoleMe](http://github.com/netflix/consoleme) - made a (tiny) contribution by reading through the whole codebase and [outlining the file structure in the CONTRIBUTING.md file](https://github.com/Netflix/consoleme/blob/master/CONTRIBUTING.md) -- to onboard new contributors faster
+
+
+### Educational
+
+- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything) (6k stars) - I wanted to see if there were any useful principles of designing secure systems I could learn from other security-related fields (like casino security, military fortification design, prison design) that could be applied to computer security. So I put together this reading list for myself, my notes on what I've read so far (around 20 pages), and a generalized set of steps for secure system design.
+
+The most starred repository [on the topic of security engineering on GitHub](https://github.com/topics/security-engineering) (as of June 2021).
+
+- [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) (390+ stars) - The most popular collection on GitHub of projects, blog posts, books, and talks about cybersecurity risk quantification. Created it as I was reading about the topic, after seeing Netflix's [riskquant project](https://github.com/Netflix-Skunkworks/riskquant)
+
+
+### Community Involvement
+
+- [CISO/Founder Connect](http://connect.securityfounders.org/) - project I'm working on with [Caleb Sima](https://www.linkedin.com/in/calebsima) (CISO at Robinhood). Matches CISOs and founders with each other for angel investing, product feedback, advising, board seats. Fortunate to have some top notch security leaders in the program from great companies including JupiterOne, Redis Labs, Twilio, Google DeepMind, Informatica, and many more.
+
+- [Security Founders Slack](https://securityfounders.org/) - I run a channel in this group that pairs ~80 CISOs and founders for random virtual coffees every two weeks. (Did not create this group, but am a member as I'm fairly interested in working on a security company at some point.)
+
+### In College
+
 - [Cambridge2Cambridge cyber competition](https://www.cambridgefilmworks.com/cambridge-2-cambridge-cyber-competition-2/) - While in college, had the opportunity to participate in a US-UK CTF competition held at the University of Cambridge in the UK. [Managed to place 2nd individually](https://sa.berkeley.edu/news/2017/10/13/cal-sophomore-veeral-patel-places-2nd-cyber-security-competition) (110 competitors total, from 24 colleges)
 
 - [BERKE1337](https://berke1337.berkeley.edu/) - served as the leader of Cal's cybersecurity club for one year. Participated in CTF competitions. Helped organize and/or teach sessions on topics like lockpicking and web app hacking. Organized mock exams for students in our undergrad security class. Helped set up recruiting info-sessions with great companies like Samsung and Kaspersky Labs on campus. Was on our [WRCCDC](https://wrccdc.org/) collegiate competition team. Ran the DeCal class below.
 
 - [Titans of Cybersecurity DeCal](https://berke1337.berkeley.edu/decal/) - created and taught a one semester, student run class on cybersecurity. Speakers included Jeff Atwood (founder of Stack Overflow), Geoff Smalling (VP of Engineering at Flexport), Raj Date (1st director of the CFPB), Sourabh Satish (founder of Phantom Cyber, acq by Splunk)
 
-- [ConsoleMe](http://github.com/netflix/consoleme) - made a (tiny) contribution by reading through the whole codebase and [outlining the file structure in the CONTRIBUTING.md file](https://github.com/Netflix/consoleme/blob/master/CONTRIBUTING.md) -- to onboard new contributors faster
+- [Orchestrator](http://web.archive.org/web/20181211032349/http://getorchestrator.com/) - an (unsuccessful) security automation startup I founded in college. Goal was to build an interactive console that secops staff could use to carry out mundane tasks like blocking domains in OpenDNS and looking up hashes in VirusTotal for them upon request.
+
+### For Fun
+
+- [Elections Tracker](https://www.dropbox.com/scl/fi/1xkhwcf3etvdjiugs1ujx/Elections-tracker.paper?dl=0&rlkey=715bdfoa3vj2pr2ly4vimk6by) - I like following elections around the world, in particular in the US, Canada, Europe, India, Israel, and Australia. Wrote up this ~6 page doc listing all the elections I'm tracking currently, and tracked previously.
 
 ## Knowledge Base
 
-I sometimes read books/papers, and watch conference talks, on cybersecurity
-and upload my notes to [this site](https://knowledgebase.veeral-patel.com/).
-
-So far, the site has about 40 articles and 70 printed pages of content in total.
+[Some of my notes on random cybersecurity related talks/books/papers are here](https://knowledgebase.veeral-patel.com/). Around 40 articles, 70 printed pages so far
 
 Highlights:
 
