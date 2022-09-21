@@ -4,18 +4,22 @@ type = "single"
 ShowPosts = false
 +++
 
-I blog on [Medium](https://medium.com/@veeralpatel).
+I've written some blog posts on [Medium](https://medium.com/@veeralpatel).
 
-- [Your digital security is as strong as your weakest security email](https://medium.com/@veeralpatel/if-your-email-is-hacked-everything-is-47544aeee699) • the obvious, but terrifying reality that with access to your email inbox, an attacker can compromise all your digital accounts
+- [How we build production ready REST APIs in Go at OpsRamp, Part 2: tackling error handling, logging, and other cross cutting concerns](https://medium.com/@veeralpatel/how-we-build-production-ready-rest-apis-in-go-at-opsramp-part-2-tackling-error-handling-logging-89ab2d356d16)
 
-- [How to brainstorm defensive security controls](https://medium.com/@veeralpatel/how-to-brainstorm-security-controls-47f3d300526b) • identifying and understanding threats, prevent/detect/respond framework, kill chains
+- [How we build production ready REST APIs in Go at OpsRamp, Part 1: structuring the codebase](https://medium.com/@veeralpatel/how-we-build-production-ready-rest-apis-in-go-at-opsramp-part-1-structuring-the-codebase-2b80118fd05f)
 
-- [Risk quantification: what I've learned](https://medium.com/@veeralpatel/risk-quantification-what-ive-learned-80397fb9b55) • does risk quant solve a problem?, proposed tools for quantifying the risk of a data breach programmatically, tips for entrepreneurs
+- [Your digital security is as strong as your weakest security email](https://medium.com/@veeralpatel/if-your-email-is-hacked-everything-is-47544aeee699)
 
-- [6 things I wish I knew about state management when I started writing React apps](https://medium.com/@veeralpatel/things-ive-learned-about-state-management-for-react-apps-174b8bde87fb) • mitigating prop drilling, six types of state, state vs view layer, shared vs non-shared components
+- [How to brainstorm defensive security controls](https://medium.com/@veeralpatel/how-to-brainstorm-security-controls-47f3d300526b)
 
-- [7 techniques for assessing frequency when quantifying risk](https://medium.com/@veeralpatel/7-techniques-for-assessing-frequency-when-quantifying-risk-2fdd0bf26c77) • examine the data, testing, standardized tables, human forecasting, attack graphs
+- [Risk quantification: what I've learned](https://medium.com/@veeralpatel/risk-quantification-what-ive-learned-80397fb9b55)
 
-* [A proposal for attacker profiling](https://medium.com/@veeralpatel/attacker-profiling-stack-c7675c7ed2c2) • designing a dynamic honeynet to learn attackers' motives, skill level, determination, TTPs
+- [6 things I wish I knew about state management when I started writing React apps](https://medium.com/@veeralpatel/things-ive-learned-about-state-management-for-react-apps-174b8bde87fb)
 
-* [Incident response stack](https://medium.com/@veeralpatel/capabilities-every-ir-team-should-have-for-responding-to-malware-infections-9422e0bd304a) • capabilities every IR team should have for responding to security incidents in corporate networks
+- [7 techniques for assessing frequency when quantifying risk](https://medium.com/@veeralpatel/7-techniques-for-assessing-frequency-when-quantifying-risk-2fdd0bf26c77)
+
+* [A proposal for attacker profiling](https://medium.com/@veeralpatel/attacker-profiling-stack-c7675c7ed2c2)
+
+* [Capabilities every incident response team should have for responding to malware infections](https://medium.com/@veeralpatel/capabilities-every-ir-team-should-have-for-responding-to-malware-infections-9422e0bd304a)
