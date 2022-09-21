@@ -22,6 +22,10 @@ You can reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [Knowledge Base](https://knowledgebase.veeral-patel.com/) - random notes on different talks and books related to cybersecurity
 
+- [Cloud attack simulation mockups](https://www.figma.com/file/45UW5HLkn8amQBseZsQO8w/Mayhem) - Figma mockups and clickable prototype I created for a product that lets you schedule security chaos tests against your cloud environment to test your detection capabilities
+
+- [Secret scanner mockups](https://www.figma.com/file/WfTL0uhyUhQeSUzMJOHg3s/Secret-Scanner) - same for a product that scans all your SaaS applications for exposed secrets and lets you build automated playbooks to remediate them
+
 ## Links
 
 - [GitHub](http://github.com/veeral-patel)
