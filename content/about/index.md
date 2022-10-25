@@ -10,7 +10,7 @@ You can reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 ## Projects
 
-- [True Positive](https://github.com/veeral-patel/true-positive) - OSS web application that helps security incident responders manage cases. [See website here.](https://truepositive.app)
+- [True Positive](https://github.com/veeral-patel/true-positive) - OSS web application that helps security incident responders manage cases. [See website here.](truepositive.netlify.app)
 
 - [Incidents](https://github.com/veeral-patel/incidents) - initial iteration of project above (fewer features and less modern UI)
 
