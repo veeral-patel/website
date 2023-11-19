@@ -6,7 +6,7 @@ ShowPosts = false
 
 I've written some blog posts on [Medium](https://medium.com/@veeralpatel).
 
-- [15 principles for systematically inventing new technology in computer science ](https://medium.com/@veeralpatel/principles-for-systematically-inventing-new-technology-in-computer-science-b4a06622bfaf)
+- [17 principles for systematically solving problems in computer science ](https://medium.com/@veeralpatel/principles-for-systematically-inventing-new-technology-in-computer-science-b4a06622bfaf)
 
 - [How we build production ready REST APIs in Go at OpsRamp, Part 2: tackling error handling, logging, and other cross cutting concerns](https://medium.com/@veeralpatel/how-we-build-production-ready-rest-apis-in-go-at-opsramp-part-2-tackling-error-handling-logging-89ab2d356d16)
 
