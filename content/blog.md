@@ -15,6 +15,6 @@ ShowPosts = false
 
 - [How to design security controls](https://medium.com/@veeralpatel/how-to-brainstorm-security-controls-47f3d300526b) - Security engineering is about developing a threat model and then devising security controls, given real-world constraints. This post describes how to do both, using the practical example of a medieval feudal lord.
 
-- [Risk quantification: what I've learned](https://medium.com/@veeralpatel/risk-quantification-what-ive-learned-80397fb9b55) - Risk quantification offers to let security teams precisely measure their risk level, so they can prioritize, assess controls, and communicate posture to management. I spoke with many CISOs and risk quantification practitioners and documented my learnings.
+- [Can we quantify cybersecurity risk?](https://medium.com/@veeralpatel/risk-quantification-what-ive-learned-80397fb9b55) - Risk quantification offers to let security teams precisely measure their risk level, so they can prioritize, assess controls, and communicate posture to management. I spoke with many CISOs and risk quantification practitioners to learn if it was feasible.
 
 - [7 techniques for assessing frequency when quantifying risk](https://medium.com/@veeralpatel/7-techniques-for-assessing-frequency-when-quantifying-risk-2fdd0bf26c77): Assessing frequency is the hardest part of assessing risk. How would you accurately assess the chance of a data breach? Ransomware incident? I provide several practical techniques.
