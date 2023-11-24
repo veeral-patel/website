@@ -7,10 +7,7 @@ ShowPosts = false
 I've written some blog posts on [Medium](https://medium.com/@veeralpatel).
 
 - [21 principles for systematically solving problems in computer science](https://medium.com/@veeralpatel/18-principles-for-systematically-solving-problems-in-computer-science-a8a2d8cdb37c)
-
-- [How we build production ready REST APIs in Go at OpsRamp, Part 2: tackling error handling, logging, and other cross cutting concerns](https://medium.com/@veeralpatel/how-we-build-production-ready-rest-apis-in-go-at-opsramp-part-2-tackling-error-handling-logging-89ab2d356d16)
-
-- [How we build production ready REST APIs in Go at OpsRamp, Part 1: structuring the codebase](https://medium.com/@veeralpatel/how-we-build-production-ready-rest-apis-in-go-at-opsramp-part-1-structuring-the-codebase-2b80118fd05f)
+- [How we build production ready REST APIs in Go at OpsRamp](https://medium.com/@veeralpatel/how-we-build-production-ready-rest-apis-in-go-at-opsramp-part-1-structuring-the-codebase-2b80118fd05f)
 
 - [Your digital security is as strong as your weakest security email](https://medium.com/@veeralpatel/if-your-email-is-hacked-everything-is-47544aeee699)
 
