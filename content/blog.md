@@ -6,7 +6,7 @@ ShowPosts = false
 
 I've written some blog posts on [Medium](https://medium.com/@veeralpatel).
 
-- [18 principles for systematically solving problems in computer science](https://medium.com/@veeralpatel/18-principles-for-systematically-solving-problems-in-computer-science-a8a2d8cdb37c)
+- [21 principles for systematically solving problems in computer science](https://medium.com/@veeralpatel/18-principles-for-systematically-solving-problems-in-computer-science-a8a2d8cdb37c)
 
 - [How we build production ready REST APIs in Go at OpsRamp, Part 2: tackling error handling, logging, and other cross cutting concerns](https://medium.com/@veeralpatel/how-we-build-production-ready-rest-apis-in-go-at-opsramp-part-2-tackling-error-handling-logging-89ab2d356d16)
 
@@ -23,5 +23,3 @@ I've written some blog posts on [Medium](https://medium.com/@veeralpatel).
 - [7 techniques for assessing frequency when quantifying risk](https://medium.com/@veeralpatel/7-techniques-for-assessing-frequency-when-quantifying-risk-2fdd0bf26c77)
 
 * [A proposal for attacker profiling](https://medium.com/@veeralpatel/attacker-profiling-stack-c7675c7ed2c2)
-
-* [Capabilities every incident response team should have for responding to malware infections](https://medium.com/@veeralpatel/capabilities-every-ir-team-should-have-for-responding-to-malware-infections-9422e0bd304a)
