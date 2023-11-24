@@ -7,8 +7,6 @@ ShowPosts = false
 ## Backend
 - [21 principles for systematically solving problems in computer science](https://medium.com/@veeralpatel/18-principles-for-systematically-solving-problems-in-computer-science-a8a2d8cdb37c): I provide a general process for solving computer science problems, whether it's system design or a coding problem.
 
-- [How we build production ready REST APIs in Go at OpsRamp](https://medium.com/@veeralpatel/how-we-build-production-ready-rest-apis-in-go-at-opsramp-part-1-structuring-the-codebase-2b80118fd05f): How I handled software design, error handling, documentation, and more for a production deployed REST API I built.
-
 ## Frontend
 - [Designing state management for complex React frontends](https://medium.com/@veeralpatel/things-ive-learned-about-state-management-for-react-apps-174b8bde87fb): Complex React frontends are complex because their state is complex. "Use library X" won't cut it. This post organizes state into global, data, local, form, URL, and page state and describe how to use each.
 
