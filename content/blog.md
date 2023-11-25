@@ -6,6 +6,8 @@ ShowPosts = false
 
 ## Jupyter Notebooks
 
+- [Coding string search algorithms from scratch](https://colab.research.google.com/drive/1h7EXmjDgAZM_vNtpjCmqg8YqksQim3kh?usp=sharing)
+
 - [Set up tracing for a Python program using OpenTelemetry](https://colab.research.google.com/drive/1r2koASIeVlT0FhdTb52ufWS2OlydcPio?usp=sharing)
 
 ## Backend
