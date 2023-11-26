@@ -8,7 +8,7 @@ ShowPosts = false
 
 - [Coding string search algorithms from scratch](https://colab.research.google.com/drive/1h7EXmjDgAZM_vNtpjCmqg8YqksQim3kh?usp=sharing)
 
-- [Set up tracing for a Python program using OpenTelemetry](https://colab.research.google.com/drive/1r2koASIeVlT0FhdTb52ufWS2OlydcPio?usp=sharing)
+- [Instrument a Python program using OpenTelemetry to gather metrics, logs, traces](https://colab.research.google.com/drive/1r2koASIeVlT0FhdTb52ufWS2OlydcPio?usp=sharing)
 
 ## Backend
 - [21 principles for systematically solving problems in computer science](https://medium.com/@veeralpatel/18-principles-for-systematically-solving-problems-in-computer-science-a8a2d8cdb37c): I provide a general process for solving computer science problems, whether it's system design or a coding problem.
