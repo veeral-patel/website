@@ -4,7 +4,7 @@ type = "single"
 ShowPosts = false
 +++
 
-I live in the SF Bay Area and work as a software engineer. I have worked at (or interned for) Yelp, FireEye, and OpsRamp.
+I am a software engineer, and have worked at (or interned for) Yelp, FireEye, and OpsRamp. I am also very interested in security as well.
 
 You can reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
