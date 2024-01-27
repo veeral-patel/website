@@ -20,7 +20,7 @@ You can reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification) - same but for cybersecurity risk quantification
 
-- [Knowledge Base](https://knowledgebase.veeral-patel.com/) - random notes on different talks and books related to cybersecurity
+- [Knowledge Base](https://github.com/veeral-patel/knowledge-base) - notes on different talks, articles, books related to cybersecurity
 
 - [Cloud attack simulation mockups](https://www.figma.com/file/45UW5HLkn8amQBseZsQO8w/Mayhem) - Figma mockups and clickable prototype I created for a product that lets you schedule security chaos tests against your cloud environment to test your detection capabilities
 
