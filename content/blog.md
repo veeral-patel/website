@@ -13,6 +13,8 @@ ShowPosts = false
 ## Backend
 - [21 principles for systematically solving problems in computer science](https://medium.com/@veeralpatel/18-principles-for-systematically-solving-problems-in-computer-science-a8a2d8cdb37c): I provide a general process for solving computer science problems, whether it's system design or a coding problem.
 
+- [25+ Patterns for High Performance Software (Part 1)](https://veeralpatel.substack.com/p/25-patterns-for-high-performance-part-1): Batching, compression, streaming, pipelining and other best practices for low latency and high throughput
+
 ## Frontend
 - [Designing state management for complex React frontends](https://medium.com/@veeralpatel/things-ive-learned-about-state-management-for-react-apps-174b8bde87fb): Complex React frontends are complex because their state is complex. "Use library X" won't cut it. This post organizes state into global, data, local, form, URL, and page state and describe how to use each.
 
