@@ -19,8 +19,6 @@ ShowPosts = false
 
 - [25+ patterns for high performance software (part 1)](https://veeralpatel.substack.com/p/25-patterns-for-high-performance-part-1): Batching, compression, streaming, pipelining and other best practices for low latency and high throughput
 
-## Jupyter Notebooks
-
 - [Coding string search algorithms from scratch](https://colab.research.google.com/drive/1h7EXmjDgAZM_vNtpjCmqg8YqksQim3kh?usp=sharing)
 
 
