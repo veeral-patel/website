@@ -6,9 +6,11 @@ ShowPosts = false
 
 ## Observability
 
-- [Instrument Python using OpenTelemetry, part 1: gather metrics, logs, traces](https://colab.research.google.com/drive/1r2koASIeVlT0FhdTb52ufWS2OlydcPio?usp=sharing)
+- [Instrument using OpenTelemetry, part 1: gather metrics, logs, traces with Python](https://colab.research.google.com/drive/1r2koASIeVlT0FhdTb52ufWS2OlydcPio?usp=sharing)
 
-- [Instrument Python using OpenTelemetry, part 2: gather structured events](https://colab.research.google.com/drive/1Y65qXXogoDgOnXFBDyFsW2EPsJRUf8_J?usp=sharing)
+- [Instrument using OpenTelemetry, part 2: gather structured events with Python](https://colab.research.google.com/drive/1Y65qXXogoDgOnXFBDyFsW2EPsJRUf8_J?usp=sharing)
+
+- [Instrument using OpenTelemetry, part 3: in-browser tracing with React.js](https://colab.research.google.com/drive/1PT0kHJj-gad_zS5Pk-LZPe9vwfjiD3r4?usp=sharing)
 
 ## Backend
 - [A framework for methodically debugging any bug](https://medium.com/@veeralpatel/a-framework-for-methodically-debugging-any-bug-406cfe3abcc6)
