@@ -26,6 +26,10 @@ You can reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [Secret scanner mockups](https://www.figma.com/file/WfTL0uhyUhQeSUzMJOHg3s/Secret-Scanner) - same for a product that scans all your SaaS applications for exposed secrets and lets you build automated playbooks to remediate them
 
+## Talks
+
+- [Architecture of open source message brokers](https://current.confluent.io/2024-sessions/the-architecture-of-open-source-message-brokers) - my talk at Confluent Current 2024 discussing the internals of Apache Kafka, Redis Streams, Apache Pulsar and several other message brokers and the important tradeoffs that they make.
+
 ## Links
 
 - [GitHub](http://github.com/veeral-patel)
