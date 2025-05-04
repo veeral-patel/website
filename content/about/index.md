@@ -9,7 +9,6 @@ I am a software engineer, and have worked at (or interned for) Yelp, FireEye, an
 You can reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 ## Projects
-
 - [True Positive](https://github.com/veeral-patel/true-positive) - OSS web application that helps security incident responders manage cases. [See website here.](https://truepositive.netlify.app)
 
 - [Incidents](https://github.com/veeral-patel/incidents) - initial iteration of project above (fewer features and less modern UI)
@@ -22,10 +21,6 @@ You can reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 
 - [Knowledge Base](https://github.com/veeral-patel/knowledge-base) - notes on different talks, articles, books related to cybersecurity
 
-- [Cloud attack simulation mockups](https://www.figma.com/file/45UW5HLkn8amQBseZsQO8w/Mayhem) - Figma mockups and clickable prototype I created for a product that lets you schedule security chaos tests against your cloud environment to test your detection capabilities
-
-- [Secret scanner mockups](https://www.figma.com/file/WfTL0uhyUhQeSUzMJOHg3s/Secret-Scanner) - same for a product that scans all your SaaS applications for exposed secrets and lets you build automated playbooks to remediate them
-
 ## Talks
 
 - [Architecture of open source message brokers](https://current.confluent.io/2024-sessions/the-architecture-of-open-source-message-brokers) - my talk at Confluent Current 2024 discussing the internals of Apache Kafka, Redis Streams, Apache Pulsar and several other message brokers and the important tradeoffs that they make.
@@ -35,4 +30,3 @@ You can reach me at [veeralpatel4@gmail.com](mailto:veeralpatel4@gmail.com).
 - [GitHub](http://github.com/veeral-patel)
 - [LinkedIn](https://www.linkedin.com/in/veeral-patel-6b6730132/)
 - [Medium](https://medium.com/@veeralpatel)
-- [Twitter](https://twitter.com/veeralpatel44)
